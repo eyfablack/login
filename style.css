@@ -1,0 +1,45 @@
+body {
+          background-color: rgb(79, 79, 228);
+}
+.container {
+          width: 500px;
+          margin: 200px auto;
+}
+.login {
+          text-align: center;
+          font-size: 40px;
+}
+div input {
+          width: 90%;
+          padding: 15px;
+          margin-bottom:20px ;
+          font-size: 20px;
+          background-color: rgb(227, 227, 227);
+          border-radius: 5px;
+          /* border: none; */
+          outline: none;
+}
+.button {
+          text-align: center;
+          padding: 10px 40px;
+          font-size: 18px;
+          border-radius: 5px;
+          background-color: green;
+          color: #fff;
+}
+.blok-1 {
+          padding: 30px;
+          background-color: #fff;
+          text-align: center;
+          border-radius: 5px;
+}
+.blok-2 {
+          text-align: center;
+          margin-top: 20px;
+}
+.forgot {
+          color: #fff;
+}
+.click {
+         color: yellow !important;
+}
